@@ -1,0 +1,16 @@
+{
+    "quotes": [
+        "Truth can only be found in one place: the code. ― Robert C. Martin.",
+        "I'm a programmer. I like programming. And the best way I've found to have a positive impact on code is to write it. ― Robert C. Martin.",
+        "Everyday life is like programming, I guess. If you love something you can put beauty into it. ― Donald Knuth.",
+        "Abstraction is the elimination of the irrelevant and the amplification of the essential. ― Robert C. Martin, Agile Principles, Patterns, and Practices in C#.",
+        "Simple things should be simple, complex things should be possible. - Alan Kay.",
+        "Think like a fundamentalist, code like a hacker.” ― Erik Meijer.",
+        "Generally, the craft of programming is the factoring of a set of requirements into a a set of functions and data structures. ― Douglas Crockford, JavaScript: The Good Parts.",
+        "Programming isn't about what you know; it's about what you can figure out. ― Chris Pine, Learn to Program.",
+        "Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it. ― Marijn Haverbeke.",
+        "Simplicity is prerequisite for reliability. ― Edsger W. Dijkstra.",
+        "Premature optimization is the root of all evil. ― Donald Knuth.",
+        "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves. ― Ada Lovelace."
+    ]
+}
