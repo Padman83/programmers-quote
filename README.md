@@ -7,7 +7,7 @@
 * Cross-Platform
 * [Visual Studio Code] (https://code.visualstudio.com)
 
-### Built With:
+### 🛠️ Built with:
 
 * [create-react-app.dev] (https://create-react-app.dev/)
 
