@@ -4,4 +4,3 @@
 * (https://code.visualstudio.com)
 * (https://create-react-app.dev/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
